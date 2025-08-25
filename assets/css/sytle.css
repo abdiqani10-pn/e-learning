@@ -1,0 +1,12 @@
+.pull-right{
+    float: right;
+
+}
+.error-message{
+
+ color: red;
+
+}  
+.has-error{
+    background-color: #fcd8d8;
+}
